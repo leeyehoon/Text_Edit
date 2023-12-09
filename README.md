@@ -13,15 +13,15 @@
 개발하고자 하는 프로그램을 자세히 설명드리자면,
 
 ![Image](./src/img_1.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_1.png">
   <br>
   <sub><sup>행 데이터</sup></sub>
 </p>
 
 ![Image](./src/img_2.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_2.png">
   <br>
   <sub><sup>가로 정렬된 데이터</sup></sub>
 </p>
@@ -44,15 +44,15 @@ gedit이라는 텍스트 편집기는 GNOME 데스크톱 환경, MS 윈도우, �
 코드를 작성하기 위해서 먼저 원하는 디렉터리 터미널에서 gedit 편집기를 실행합니다. 실행하는 방법은 다음과 같습니다.
 
 ![Image](./src/img_3.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_3.png">
   <br>
   <sub><sup>$ gedit [파일이름]</sup></sub>
 </p>
 
 ![Image](./src/img_4.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_4.png">
   <br>
   <sub><sup>gedit 실행 화면</sup></sub>
 </p>
@@ -60,8 +60,8 @@ gedit이라는 텍스트 편집기는 GNOME 데스크톱 환경, MS 윈도우, �
 gedit은 코딩하기에 편리하게 하이라이트 기능을 제공합니다.
 편집기 화면 우측 상단에 '三' 버튼을 클릭 후, 보기 → 강조 모드 → C언어 선택을 하게 되면,
 ![Image](./src/img_5.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_5.png">
   <br>
   <sub><sup>C언어 하이라이트 모드</sup></sub>
 </p>
@@ -83,23 +83,23 @@ gedit은 코딩하기에 편리하게 하이라이트 기능을 제공합니다.
 gcc 컴파일러는 여러 옵션을 가지고 컴파일을 해주며, 목적 파일, 실행파일도 만들어줍니다.
 컴파일, 실행파일을 만들기 위한 방법은 다음과 같습니다.
 ![Image](./src/img_6.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_6.png">
   <br>
   <sub><sup>gcc -o [실행파일명] [컴파일할 파일명]</sup></sub>
 </p>
 
 ![Image](./src/img_7.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_7.png">
   <br>
   <sub><sup>sort.c의 실행파일</sup></sub>
 </p>
 
 ## 실행 화면
 ![Image](./src/img_8.png)
-<p align="center">
-  <img src="your-image-url">
+<p style="text-align: center;">
+  <img src="./src/img_8.png">
   <br>
   <sub><sup>실행 화면</sup></sub>
 </p>
